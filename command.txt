@@ -8,3 +8,5 @@ git status => list all untracked files
 git add -A => adding all changes to staging area
 
 git commit -m "commit message" => adding stated files to local repository
+
+git remote add origin https://github.com/SeanEmM/gitbasic.git
