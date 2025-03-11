@@ -1,0 +1,10 @@
+git config --global user.name "Sonal"
+git config --global user.email "sonalvarg@gmail.com"
+
+git init => for initializing git in pwd
+
+git status => list all untracked files
+
+git add -A => adding all changes to staging area
+
+git commit -m "commit message" => adding stated files to local repository
