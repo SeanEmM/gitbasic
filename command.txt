@@ -10,3 +10,5 @@ git add -A => adding all changes to staging area
 git commit -m "commit message" => adding stated files to local repository
 
 git remote add luminar git remote add origin https://github.com/SeanEmM/gitbasic.git
+
+git remote -v
