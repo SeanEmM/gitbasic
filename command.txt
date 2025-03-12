@@ -12,3 +12,15 @@ git commit -m "commit message" => adding stated files to local repository
 git remote add origin https://github.com/SeanEmM/gitbasic.git
 
 git remote -v
+
+
+following update was done in remote repository
+git branch
+
+git branch student
+
+git checkout student 
+
+git checkout master
+
+git merge student
